@@ -14,7 +14,6 @@ public class Main {
         Calculadora.multiplicacao(7,8);
         Calculadora.divisao(5, 2.5);
 
-
         //Mensagem
         System.out.println("Exercício Mensagem");
         Mensagem.obterMensagem(9);
