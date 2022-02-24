@@ -25,7 +25,5 @@ public class Main {
         Emprestimo.calcular(5000, 2);
         Emprestimo.calcular(3500, 3);
         Emprestimo.calcular(5000, 5);
-
     }
-
 }
